@@ -11,5 +11,17 @@
   },
   "scripts": {
     "ecli": "bun src/index.ts"
+  },
+  "dependencies": {
+    "@types/ink": "^2.0.3",
+    "@types/react": "^19.2.7",
+    "ink": "^6.6.0",
+    "ink-divider": "^4.1.1",
+    "ink-progress-bar": "^3.0.0",
+    "ink-scrollable-list": "^1.5.1",
+    "ink-select-input": "^6.2.0",
+    "ink-tab": "^5.2.0",
+    "ink-use-stdout-dimensions": "^1.0.5",
+    "react": "^19.2.3"
   }
 }
